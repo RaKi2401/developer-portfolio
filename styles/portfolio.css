@@ -9,6 +9,7 @@ nav{
     display: flex;
     align-items: center;
      justify-content: space-between;
+     margin: 0 200px;
 }
 
 .nav-portfolio{
@@ -42,4 +43,16 @@ nav li{
 nav a{
     text-decoration: none;
     color: #474747;
+}
+/* header related class */
+.header{
+    background-color: #fff8f3;
+}
+.banner{
+    padding:30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.profile{
+  width: 500px;  
 }
